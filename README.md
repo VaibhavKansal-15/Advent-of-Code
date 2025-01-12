@@ -1,7 +1,7 @@
 Advent of Code Solutions
 Welcome to my Advent of Code repository! This project contains my solutions for the yearly Advent of Code challenges. These programming puzzles are a great way to enhance problem-solving skills, learn new techniques, and have fun coding during the festive season.
 
-🛠️ Project Structure
+🛠️ Project Structure :
 The repository is organized as follows:
 
 graphql
