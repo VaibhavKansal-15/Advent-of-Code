@@ -9,7 +9,6 @@ public class MullitOver1 {
         }
         Pattern pattern = Pattern.compile("mul\\((\\d+),(\\d+)\\)");
         Matcher matcher = pattern.matcher(input.toString());
-
         int count=0;
         while(matcher.find()){
             int x=Integer.parseInt(matcher.group(1));
