@@ -22,7 +22,6 @@ public class HistorianHysteria2{
         for(int num:rightSide){
             rightfreq.put(num,rightfreq.getOrDefault(num, 0)+1);
         }
-
         for(int num:leftSide){
             if(rightfreq.containsKey(num)){
                 count+=num*rightfreq.get(num);
